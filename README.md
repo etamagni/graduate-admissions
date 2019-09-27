@@ -10,6 +10,6 @@ The dataset contains several parameters which are considered important during th
 6. Research Experience (either 0 or 1)
 7. Chance of Admit (ranging from 0 to 1)
 
-The results can be found in `report.pdf`
+The results can be found in `report.pdf`.
 
 Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019
