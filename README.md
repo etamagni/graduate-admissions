@@ -1,4 +1,4 @@
-# Graduate Admissions
+# Graduate Admissions Predictive Analysis
 This analysis examines the likelihood of admission to graduate programs.
 
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are: 
